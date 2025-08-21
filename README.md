@@ -12,6 +12,23 @@ My idea was to use a microbit to track the number of reps during a weightlifting
   <img width="750" height="530" alt="LC_microbit_code" src="https://github.com/user-attachments/assets/8d315e98-d21a-4f66-ab7e-e2b30ccb1780" />
 </div>
 
-Simple program to track the nummber of repititions of an exercise and log key data which gets exported to an clsl
+Simple program to track the nummber of repititions of an exercise and log key data which gets exported to an excel file (csv).
+
+Also displays the number of reps and shows when you press the button to reset the counter back to 0.
 
 ## Python
+
+### Libraries
+<div>
+    <a href="https://numpy.org/">
+      <img src="https://numpy.org/images/logo.svg" width="50px" height="50px"/>
+    </a>
+  <a href="https://matplotlib.org/">
+      <img src="https://matplotlib.org/_static/logo_light.svg" width="100px" height="100px"/>
+    </a>
+  <a href="https://pandas.pydata.org/">
+      <img src="https://github.com/user-attachments/assets/339d4224-3189-4adb-b831-f95fcfd592fd" width="100px" height="100px"/>
+    </a>
+</div>
+
+
