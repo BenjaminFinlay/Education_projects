@@ -31,4 +31,10 @@ Also displays the number of reps and shows when you press the button to reset th
     </a>
 </div>
 
+The python file reads the csv file, takes the needed data and uses if-else statements to determine an output using print statements and a graph.
+
+
+
+
+
 
