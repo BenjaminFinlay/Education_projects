@@ -6,6 +6,9 @@ The brief for that year advised us to build a project based around tracking heal
 
 My idea was to use a microbit to track the number of reps during a weightlifting exercise using the force function on the microbit.
 
+When I decided to choose a weightlifting assistant, I choose it as I had a passion for weightlifting and had a lot of knowledge on it.
+This made it easier for the latter part of the project which was interpreting the data, the timing, and the number of reps.
+
 # Overview
 ## Microbit
 <div>
