@@ -13,6 +13,8 @@ This made it easier for the latter part of the project which was interpreting th
 <div>
 <img width="365" height="350" alt="image" src="https://github.com/user-attachments/assets/432c2163-fbd0-4b18-bf7f-f749f8ec75f9" />
 <img width="365" height="350" alt="image" src="https://github.com/user-attachments/assets/c61e0119-34e9-4244-80c9-468001dc5000" />
+
+The python file reads the csv file, takes the needed data and uses if-else statements to determine an output using print statements and a graph.
 </div>
 
 # Overview
@@ -40,7 +42,7 @@ Also displays the number of reps and shows when you press the button to reset th
     </a>
 </div>
 
-The python file reads the csv file, takes the needed data and uses if-else statements to determine an output using print statements and a graph.
+
 
 
 
