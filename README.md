@@ -9,6 +9,12 @@ My idea was to use a microbit to track the number of reps during a weightlifting
 When I decided to choose a weightlifting assistant, I choose it as I had a passion for weightlifting and had a lot of knowledge on it.
 This made it easier for the latter part of the project which was interpreting the data, the timing, and the number of reps.
 
+# Output
+<div>
+<img width="365" height="350" alt="image" src="https://github.com/user-attachments/assets/432c2163-fbd0-4b18-bf7f-f749f8ec75f9" />
+<img width="365" height="350" alt="image" src="https://github.com/user-attachments/assets/c61e0119-34e9-4244-80c9-468001dc5000" />
+</div>
+
 # Overview
 ## Microbit
 <div>
